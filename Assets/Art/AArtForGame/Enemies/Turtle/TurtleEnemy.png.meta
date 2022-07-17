@@ -1,0 +1,1308 @@
+fileFormatVersion: 2
+guid: 4609d1cf7ceec9e48afc159ecfad2712
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6809019184925677273
+    second: TurtleEnemy_0
+  - first:
+      213: 6584824174292923119
+    second: TurtleEnemy_1
+  - first:
+      213: -3487044714036559902
+    second: TurtleEnemy_2
+  - first:
+      213: 8221979267406539426
+    second: TurtleEnemy_3
+  - first:
+      213: -178817608115884387
+    second: TurtleEnemy_4
+  - first:
+      213: 9165992521898289466
+    second: TurtleEnemy_5
+  - first:
+      213: 4290344079283364795
+    second: TurtleEnemy_6
+  - first:
+      213: -3944959436265070027
+    second: TurtleEnemy_8
+  - first:
+      213: -3110996950877043229
+    second: TurtleEnemy_9
+  - first:
+      213: 6696036390830292547
+    second: TurtleEnemy_10
+  - first:
+      213: 6706241542528368200
+    second: TurtleEnemy_11
+  - first:
+      213: 658565855914313855
+    second: TurtleEnemy_12
+  - first:
+      213: 3962593341621530422
+    second: TurtleEnemy_13
+  - first:
+      213: -75173959522068075
+    second: TurtleEnemy_14
+  - first:
+      213: 2626784505521479552
+    second: TurtleEnemy_15
+  - first:
+      213: 7667399125188900095
+    second: TurtleEnemy_16
+  - first:
+      213: 3918172668372238368
+    second: TurtleEnemy_17
+  - first:
+      213: 5310809734958721365
+    second: TurtleEnemy_18
+  - first:
+      213: 7929043076686732728
+    second: TurtleEnemy_19
+  - first:
+      213: -6552592205321383323
+    second: TurtleEnemy_20
+  - first:
+      213: -5336368815639140187
+    second: TurtleEnemy_21
+  - first:
+      213: -4094814956853487006
+    second: TurtleEnemy_22
+  - first:
+      213: 8977572216007059453
+    second: TurtleEnemy_24
+  - first:
+      213: -242119368546350128
+    second: TurtleEnemy_25
+  - first:
+      213: 5558492879539294332
+    second: TurtleEnemy_26
+  - first:
+      213: 6642419667360931328
+    second: TurtleEnemy_27
+  - first:
+      213: 3310625901388490377
+    second: TurtleEnemy_28
+  - first:
+      213: 4761817875701413137
+    second: TurtleEnemy_29
+  - first:
+      213: -2302468608892104623
+    second: TurtleEnemy_30
+  - first:
+      213: 2659484739101113124
+    second: TurtleEnemy_31
+  - first:
+      213: -4226538851818034778
+    second: TurtleEnemy_32
+  - first:
+      213: -7553476379091593487
+    second: TurtleEnemy_33
+  - first:
+      213: -1889184883719264290
+    second: TurtleEnemy_34
+  - first:
+      213: -2821959728624789501
+    second: TurtleEnemy_36
+  - first:
+      213: -3484736693032892285
+    second: TurtleEnemy_37
+  - first:
+      213: -6979529246808327525
+    second: TurtleEnemy_38
+  - first:
+      213: 1350804830235829021
+    second: TurtleEnemy_39
+  - first:
+      213: -8236827822656635977
+    second: TurtleEnemy_40
+  - first:
+      213: -6869000202965287990
+    second: TurtleEnemy_41
+  - first:
+      213: 6303107288349980790
+    second: TurtleEnemy_42
+  - first:
+      213: -3201818408724313439
+    second: TurtleEnemy_43
+  - first:
+      213: -1994727685821857807
+    second: TurtleEnemy_44
+  - first:
+      213: -713621206308302273
+    second: TurtleEnemy_45
+  - first:
+      213: -2348146415576087512
+    second: TurtleEnemy_46
+  - first:
+      213: -6525126062145824506
+    second: TurtleEnemy_47
+  - first:
+      213: -6150197814778310728
+    second: TurtleEnemy_48
+  - first:
+      213: -6951456973542909871
+    second: TurtleEnemy_49
+  - first:
+      213: -76915991271353396
+    second: TurtleEnemy_50
+  - first:
+      213: -2118931978542438187
+    second: TurtleEnemy_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 26
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TurtleEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7296fa580218181a0800000000000000
+      internalID: -6809019184925677273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 114
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe27229d2bef16b50800000000000000
+      internalID: 6584824174292923119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 114
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef72f7ce478b9fc0800000000000000
+      internalID: -3487044714036559902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 114
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaa460f4965a1270800000000000000
+      internalID: 8221979267406539426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 114
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eeaa43556b48df0800000000000000
+      internalID: -178817608115884387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 114
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3962a992a5243f70800000000000000
+      internalID: 9165992521898289466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 114
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3a2e9753d5a8b30800000000000000
+      internalID: 4290344079283364795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 114
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53268144b40b049c0800000000000000
+      internalID: -3944959436265070027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 114
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e586a581c483d4d0800000000000000
+      internalID: -3110996950877043229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 114
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e378ece991dec50800000000000000
+      internalID: 6696036390830292547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 114
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84efe58d62b511d50800000000000000
+      internalID: 6706241542528368200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 114
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7849fe1822b32900800000000000000
+      internalID: 658565855914313855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 114
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63feda446a5fdf630800000000000000
+      internalID: 3962593341621530422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599d35e9eade4fef0800000000000000
+      internalID: -75173959522068075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 90
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f9b192796347420800000000000000
+      internalID: 2626784505521479552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 90
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4760871e2186a60800000000000000
+      internalID: 7667399125188900095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 90
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020c8f25845206630800000000000000
+      internalID: 3918172668372238368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 90
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a6e9e059c3b940800000000000000
+      internalID: 5310809734958721365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 90
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bddeaa1bae990e60800000000000000
+      internalID: 7929043076686732728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 90
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56253db3b148015a0800000000000000
+      internalID: -6552592205321383323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_21
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 90
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a86b51e5d861f5b0800000000000000
+      internalID: -5336368815639140187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 90
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a9ac3fd7b4c27c0800000000000000
+      internalID: -4094814956853487006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_24
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 90
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df764808d5eb69c70800000000000000
+      internalID: 8977572216007059453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_25
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 90
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db8d8497b1d3acf0800000000000000
+      internalID: -242119368546350128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 90
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c705a73e2dbb32d40800000000000000
+      internalID: 5558492879539294332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 90
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00edd129e7d9e2c50800000000000000
+      internalID: 6642419667360931328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 62
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986e77487b4b1fd20800000000000000
+      internalID: 3310625901388490377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 62
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115b946f020651240800000000000000
+      internalID: 4761817875701413137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_30
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 62
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1509f7ccffcfb00e0800000000000000
+      internalID: -2302468608892104623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 62
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bb1b7974368e420800000000000000
+      internalID: 2659484739101113124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_32
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 62
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9aff3be415855c0800000000000000
+      internalID: -4226538851818034778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_33
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 62
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f611f4d049ac2790800000000000000
+      internalID: -7553476379091593487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 62
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed720ea8b5448c5e0800000000000000
+      internalID: -1889184883719264290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3089cd4049266d8d0800000000000000
+      internalID: -2821959728624789501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 35
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388410cc07ab3afc0800000000000000
+      internalID: -3484736693032892285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_38
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a3a80112bb32f90800000000000000
+      internalID: -6979529246808327525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 35
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13a61316d50fb210800000000000000
+      internalID: 1350804830235829021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_40
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 35
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb3f726cb8e0bd80800000000000000
+      internalID: -8236827822656635977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 35
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbfa2c75b86ca0a0800000000000000
+      internalID: -6869000202965287990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_42
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 35
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678b647fea2297750800000000000000
+      internalID: 6303107288349980790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_43
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 35
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa4ea80f1bd093d0800000000000000
+      internalID: -3201818408724313439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff73fefcbd4154e0800000000000000
+      internalID: -1994727685821857807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 11
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32dec53b45b816f0800000000000000
+      internalID: -713621206308302273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_46
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 11
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8240bfaa645b96fd0800000000000000
+      internalID: -2348146415576087512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 11
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60997270b681275a0800000000000000
+      internalID: -6525126062145824506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_48
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 11
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf41cf2cab16aaa0800000000000000
+      internalID: -6150197814778310728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_49
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 114
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158109486b6778f90800000000000000
+      internalID: -6951456973542909871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_50
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 90
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc359be305dbeeef0800000000000000
+      internalID: -76915991271353396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleEnemy_51
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 62
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d823c3979a0892e0800000000000000
+      internalID: -2118931978542438187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
